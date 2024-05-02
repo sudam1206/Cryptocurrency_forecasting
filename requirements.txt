@@ -1,0 +1,13 @@
+asyncpg==0.29.0
+fastapi==0.110.0
+psycopg2-binary==2.9.9
+uvicorn==0.29.0
+dash==2.16.1
+dash-html-components==2.0.0
+sqlalchemy==2.0.28
+pandas==2.2.1
+setuptools==69.2.0
+python-binance==1.0.19
+plotly==5.20.0
+asyncio==3.4.3
+websocket-client==1.7.0
